@@ -1,0 +1,6 @@
+*:not(.glyphicon):not(.fa) {
+    font-family: Arial, sans-serif !important;
+    font-size: small;
+  }
+
+  .fa{font-size: 16px;}
