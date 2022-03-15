@@ -1,0 +1,198 @@
+polished:
+  Package: polished
+  GithubUsername: tychobra
+  GithubRepo: polished
+  GithubRef: HEAD
+  GithubSHA1: 60f8fc2d37e76c7ddba458c498df2cd9549a7f60
+tinytex:
+  Package: tinytex
+  Repository: CRAN
+  Version: '0.35'
+officedown:
+  Package: officedown
+  Repository: CRAN
+  Version: 0.2.3
+officer:
+  Package: officer
+  Repository: CRAN
+  Version: 0.4.1
+tidyverse:
+  Package: tidyverse
+  Repository: CRAN
+  Version: 1.3.1
+readxl:
+  Package: readxl
+  Repository: CRAN
+  Version: 1.3.1
+splitstackshape:
+  Package: splitstackshape
+  Repository: CRAN
+  Version: 1.4.8
+data.table:
+  Package: data.table
+  Repository: CRAN
+  Version: 1.14.2
+readr:
+  Package: readr
+  Repository: CRAN
+  Version: 2.1.0
+feather:
+  Package: feather
+  Repository: CRAN
+  Version: 0.3.5
+stringr:
+  Package: stringr
+  Repository: CRAN
+  Version: 1.4.0
+lubridate:
+  Package: lubridate
+  Repository: CRAN
+  Version: 1.8.0
+bizdays:
+  Package: bizdays
+  Repository: CRAN
+  Version: 1.0.8
+dplyr:
+  Package: dplyr
+  Repository: CRAN
+  Version: 1.0.7
+tibbletime:
+  Package: tibbletime
+  Repository: CRAN
+  Version: 0.1.6
+openxlsx:
+  Package: openxlsx
+  Repository: CRAN
+  Version: 4.2.4
+pivottabler:
+  Package: pivottabler
+  Repository: CRAN
+  Version: 1.5.3
+janitor:
+  Package: janitor
+  Repository: CRAN
+  Version: 2.1.0
+xlsx:
+  Package: xlsx
+  Repository: CRAN
+  Version: 0.6.5
+DBI:
+  Package: DBI
+  Repository: CRAN
+  Version: 1.1.1
+RPostgres:
+  Package: RPostgres
+  Repository: CRAN
+  Version: 1.3.3
+shinyjs:
+  Package: shinyjs
+  Repository: CRAN
+  Version: 2.0.0
+sodium:
+  Package: sodium
+  Repository: CRAN
+  Version: 1.2.0
+powerjoin:
+  Package: powerjoin
+  Repository: CRAN
+  Version: 0.0.1
+dbplyr:
+  Package: dbplyr
+  Repository: CRAN
+  Version: 2.1.1
+flextable:
+  Package: flextable
+  Repository: CRAN
+  Version: 0.6.10
+glue:
+  Package: glue
+  Repository: CRAN
+  Version: 1.4.2
+bs4Dash:
+  Package: bs4Dash
+  Repository: CRAN
+  Version: 2.0.3
+DT:
+  Package: DT
+  Repository: CRAN
+  Version: '0.20'
+pool:
+  Package: pool
+  Repository: CRAN
+  Version: 0.1.6
+RPostgreSQL:
+  Package: RPostgreSQL
+  Repository: CRAN
+  Version: 0.7-3
+ggcharts:
+  Package: ggcharts
+  Repository: CRAN
+  Version: 0.2.1
+ggplot2:
+  Package: ggplot2
+  Repository: CRAN
+  Version: 3.3.5
+echarts4r:
+  Package: echarts4r
+  Repository: CRAN
+  Version: 0.4.2
+fst:
+  Package: fst
+  Repository: CRAN
+  Version: 0.9.4
+shinysurveys:
+  Package: shinysurveys
+  GithubUsername: jdtrat
+  GithubRepo: shinysurveys
+  GithubRef: HEAD
+  GithubSHA1: a1aab893cdf7af9c677319a7862db151dd466133
+shinyvalidate:
+  Package: shinyvalidate
+  Repository: CRAN
+  Version: 0.1.1
+extrafont:
+  Package: extrafont
+  Repository: CRAN
+  Version: '0.17'
+showtext:
+  Package: showtext
+  Repository: CRAN
+  Version: 0.9-4
+httr:
+  Package: httr
+  Repository: CRAN
+  Version: 1.4.2
+bslib:
+  Package: bslib
+  Repository: CRAN
+  Version: 0.3.1
+fresh:
+  Package: fresh
+  Repository: CRAN
+  Version: 0.2.0
+zoo:
+  Package: zoo
+  Repository: CRAN
+  Version: 1.8-9
+shinyFiles:
+  Package: shinyFiles
+  Repository: CRAN
+  Version: 0.9.1
+thematic:
+  Package: thematic
+  Repository: CRAN
+  Version: 0.1.2.1
+shiny:
+  Package: shiny
+  GithubUsername: rstudio
+  GithubRepo: shiny
+  GithubRef: HEAD
+  GithubSHA1: de8134742df374ce27b70cd9381475b4cfe19e24
+tibble:
+  Package: tibble
+  Repository: CRAN
+  Version: 3.1.6
+purrr:
+  Package: purrr
+  Repository: CRAN
+  Version: 0.3.4
