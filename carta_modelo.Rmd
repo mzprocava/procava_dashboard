@@ -1,0 +1,16 @@
+library(officer)
+library(magrittr)
+
+read_docx() %>%
+body_add_par(value = "AWESOME Table", style = "table title") %>%
+body_add_par("") %>%
+body_bookmark(id = "AwesomeBMK") %>%
+body_add_par("(Awesome table appears here immediately after AwesomeBMK bookmark)") %>%
+print(target = "Awesome Report.docx")
+
+read_docx() %>%
+body_add_par(value = "Awesome Table", style = "table title") %>%
+body_add_par("") %>%
+body_bookmark(id = "AwesomeBMK") %>%
+body_add_par("(Awesome table appears here immediately after AwesomeBMK bookmark)") %>%
+print(target = "Awesome Table.docx")
